@@ -117,7 +117,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Mo Phan - helen.dreamsbigdreams@gmail.com
 
 Project Link: [https://github.com/mophan/Predict-Purchasing-Intentions-of-Online-Shoppers-SAS-Regression-Decision-Tree-kNN-Random-Forest](https://github.com/mophan/Predict-Purchasing-Intentions-of-Online-Shoppers-SAS-Regression-Decision-Tree-kNN-Random-Forest)
 
