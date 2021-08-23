@@ -59,28 +59,16 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Companies which offer online shopping services are often interested in what factors lead to purchases; this report explores these factors and presents multiple models designed to predict whether or not a purchase will occur.
+Online shopping is used by many people around the world. It is a popular method of finding the items you want without needing to drive to a physical location and wait in a checkout line. Companies which offer online shopping services are often interested in what factors lead to purchases; this project explores these factors and presents multiple models designed to predict whether or not a purchase will occur.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+The main goal of this project is to use the program SAS Enterprise Miner and applications of classification algorithms, including decision trees, regression, neural networks, and random forests to create different types of classification models to predict the shopping intent of visitors to the website columbia.com.tr. With this knowledge, we will be able to classify who is likely to make a purchase and who is not among all visitors to the website.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
-
-### Built With
-
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+This project also uses the application of cluster analysis to divide all website visitors into a number of groups which have different online shopping behaviors. Those visitor segments will provide businesses with a deeper understanding of online activities of the website visitors, and will help them to take actions accordingly to improve the purchase conversion rates and increase sales. 
 
 
 
-<!-- GETTING STARTED -->
-## Getting Started
+<!-- DATA DESCRIPTION -->
+## Data Description
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
