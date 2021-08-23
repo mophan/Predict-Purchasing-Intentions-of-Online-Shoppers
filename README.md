@@ -41,15 +41,7 @@
       <a href="#about-the-project">About the project</a>
     </li>
     <li><a href="#data-description">Data description</a></li>
-    <li><a href="#roadmap">Methodology</a>
-        <ul>
-            <li>Decision Tree</li>
-            <li>Logistic Regression</li>
-            <li>Neural Networks</li>
-            <li>Random Forest</li>
-        </ul>
-        </li>
-    <li><a href="#contributing">Conclusion</a></li>
+    <li><a href="#methodology">Methodology</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -107,13 +99,6 @@ Contributions are what make the open source community such an amazing place to b
 
 
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
 <!-- CONTACT -->
 ## Contact
 
@@ -122,6 +107,10 @@ Mo Phan - helen.dreamsbigdreams@gmail.com
 Project Link: [https://github.com/mophan/Predict-Purchasing-Intentions-of-Online-Shoppers-SAS-Regression-Decision-Tree-kNN-Random-Forest](https://github.com/mophan/Predict-Purchasing-Intentions-of-Online-Shoppers-SAS-Regression-Decision-Tree-kNN-Random-Forest)
 
 
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
