@@ -23,7 +23,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Predict-Purchasing-Intentions-of-Online-Shoppers</h3>
+  <h2 align="center">Predict Purchasing Intentions of Online Shoppers</h2>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
