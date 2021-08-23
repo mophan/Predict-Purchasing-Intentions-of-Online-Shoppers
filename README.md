@@ -85,7 +85,7 @@ Using 4 different approaches to predict the online purchasing intention, includi
 3. Neural Networks
 4. Random Forest
 
-_For more details, please refer to the [project report](https://github.com/mophan/Predict-Purchasing-Intentions-of-Online-Shoppers-SAS-Regression-Decision-Tree-kNN-Random-Forest/blob/master/Project-Report.docx), the [project presentation](https://github.com/mophan/Predict-Purchasing-Intentions-of-Online-Shoppers-SAS-Regression-Decision-Tree-kNN-Random-Forest/blob/master/Project-Presentation.pdf), and the [project working files](https://github.com/mophan/Predict-Purchasing-Intentions-of-Online-Shoppers-SAS-Regression-Decision-Tree-kNN-Random-Forest/tree/master/sas-files)_
+_For more details, please refer to the [project report](https://github.com/mophan/Predict-Purchasing-Intentions-of-Online-Shoppers-SAS-Regression-Decision-Tree-kNN-Random-Forest/blob/master/Project-Report.docx), the [project presentation](https://github.com/mophan/Predict-Purchasing-Intentions-of-Online-Shoppers-SAS-Regression-Decision-Tree-kNN-Random-Forest/blob/master/Project-Presentation.pdf), and the [project working files](https://github.com/mophan/Predict-Purchasing-Intentions-of-Online-Shoppers-SAS-Regression-Decision-Tree-kNN-Random-Forest/tree/master/sas-files)._
 
 
 
