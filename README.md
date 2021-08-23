@@ -38,28 +38,29 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Introduction</a>
+      <a href="#introduction">Introduction</a>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
+      <a href="#getting-started">Project Goals</a>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
+    <li><a href="#usage">Data description</a></li>
+    <li><a href="#roadmap">Methodology</a>
+        <ul>
+            <li>Decision Tree</li>
+            <li>Logistic Regression</li>
+            <li>Neural Networks</li>
+            <li>Random Forest</li>
+        </ul>
+        </li>
+    <li><a href="#contributing">Conclusion</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- INTRODUCTION -->
+## Introduction
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
