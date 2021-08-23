@@ -40,7 +40,7 @@
     <li>
       <a href="#about-the-project">About the project</a>
     </li>
-    <li><a href="#usage">Data description</a></li>
+    <li><a href="#data-description">Data description</a></li>
     <li><a href="#roadmap">Methodology</a>
         <ul>
             <li>Decision Tree</li>
@@ -70,8 +70,11 @@ This project also uses the application of cluster analysis to divide all website
 <!-- DATA DESCRIPTION -->
 ## Data Description
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+The online shoppers purchasing intention dataset of this project is obtained from the website: https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset. 
+
+The dataset recorded 12,330 sessions to the website columbia.com.tr in a period of 10 months from February to December 2016. The dataset consisted of 10 numerical and 8 categorical variables shown in tables 1 and 2, respectively. 
+
+
 
 ### Prerequisites
 
