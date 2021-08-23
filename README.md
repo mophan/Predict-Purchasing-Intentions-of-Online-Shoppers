@@ -38,10 +38,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#introduction">Introduction</a>
-    </li>
-    <li>
-      <a href="#getting-started">Project Goals</a>
+      <a href="#about-the-project">About the project</a>
     </li>
     <li><a href="#usage">Data description</a></li>
     <li><a href="#roadmap">Methodology</a>
@@ -59,12 +56,10 @@
 
 
 
-<!-- INTRODUCTION -->
-## Introduction
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Companies which offer online shopping services are often interested in what factors lead to purchases; this report explores these factors and presents multiple models designed to predict whether or not a purchase will occur.
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
