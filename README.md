@@ -25,9 +25,9 @@
     ·
     <a href="https://github.com/mophan/Predict-Purchasing-Intentions-of-Online-Shoppers-SAS-Regression-Decision-Tree-kNN-Random-Forest/blob/master/Project-Report.docx">View Report</a>
     ·
-    <a href="https://github.com/mophan/Predict-Purchasing-Intentions-of-Online-Shoppers-SAS-Regression-Decision-Tree-kNN-Random-Forest/tree/master/dataset">Download dataset</a>
+    <a href="https://github.com/mophan/Predict-Purchasing-Intentions-of-Online-Shoppers-SAS-Regression-Decision-Tree-kNN-Random-Forest/tree/master/dataset">Download Dataset</a>
     ·
-    <a href="https://github.com/mophan/Predict-Purchasing-Intentions-of-Online-Shoppers-SAS-Regression-Decision-Tree-kNN-Random-Forest/issues">Report bug</a>
+    <a href="https://github.com/mophan/Predict-Purchasing-Intentions-of-Online-Shoppers-SAS-Regression-Decision-Tree-kNN-Random-Forest/issues">Report Bug</a>
   </p>
 </p>
 
