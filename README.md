@@ -27,7 +27,7 @@
     ·
     <a href="https://github.com/mophan/Predict-Purchasing-Intentions-of-Online-Shoppers-SAS-Regression-Decision-Tree-kNN-Random-Forest/tree/master/dataset">Download dataset</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/mophan/Predict-Purchasing-Intentions-of-Online-Shoppers-SAS-Regression-Decision-Tree-kNN-Random-Forest/issues">Report bug</a>
   </p>
 </p>
 
