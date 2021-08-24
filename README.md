@@ -19,13 +19,13 @@
     Using SAS Miner, Decision Tree, Regression, kNN, Random Forest. 
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View SAS file</a>
+    <a href="https://github.com/mophan/Predict-Purchasing-Intentions-of-Online-Shoppers-SAS-Regression-Decision-Tree-kNN-Random-Forest/tree/master/sas-files">View SAS file</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">View PPT file</a>
+    <a href="https://github.com/mophan/Predict-Purchasing-Intentions-of-Online-Shoppers-SAS-Regression-Decision-Tree-kNN-Random-Forest/blob/master/Project-Presentation.pdf">View PPT file</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template">View Report</a>
+    <a href="https://github.com/mophan/Predict-Purchasing-Intentions-of-Online-Shoppers-SAS-Regression-Decision-Tree-kNN-Random-Forest/blob/master/Project-Report.docx">View Report</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Download dataset</a>
+    <a href="https://github.com/mophan/Predict-Purchasing-Intentions-of-Online-Shoppers-SAS-Regression-Decision-Tree-kNN-Random-Forest/tree/master/dataset">Download dataset</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
